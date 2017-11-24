@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LifeLine2017</string>
+    <array name="bloodgrp">
+        <item>A+</item>
+        <item>O+</item>
+        <item>B+</item>
+        <item>AB+</item>
+        <item>A-</item>
+        <item>O-</item>
+        <item>B-</item>
+        <item>AB-</item>
+    </array>
+    <string name="title_activity_maps">Map</string>
+</resources>

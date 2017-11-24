@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "229288626840",
+    "firebase_url": "https://lifeline2017-7b0b6.firebaseio.com",
+    "project_id": "lifeline2017-7b0b6",
+    "storage_bucket": "lifeline2017-7b0b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229288626840:android:b7c5e5e4bd965386",
+        "android_client_info": {
+          "package_name": "lifeline2017.example.com.lifeline2017"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229288626840-f8qd97k77tvdfuduvi3a9u8fsqfgv3hj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "lifeline2017.example.com.lifeline2017",
+            "certificate_hash": "8259f2e449086e721b43b7069496a354a83dbcdd"
+          }
+        },
+        {
+          "client_id": "229288626840-4ll87ihpo5mr7ls7m33jqp3qm2tdasia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfgIXktbziham0UF7RJApLcPU-YqfkV3E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229288626840-4ll87ihpo5mr7ls7m33jqp3qm2tdasia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
